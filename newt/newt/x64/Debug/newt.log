@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Обучение\Информатика\Уравнения\newt\newt\Source.cpp(5,11): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Обучение\Информатика\Уравнения\newt\newt\Source.cpp(8,34): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\Обучение\Информатика\Уравнения\newt\newt\Source.cpp(12,42): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  newt.vcxproj -> C:\Users\user\Desktop\Обучение\Информатика\Уравнения\newt\x64\Debug\newt.exe
