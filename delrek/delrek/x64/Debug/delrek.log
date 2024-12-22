@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Обучение\Информатика\Уравнения\eauation git\delrek\delrek\Source.cpp(5,11): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Обучение\Информатика\Уравнения\eauation git\delrek\delrek\Source.cpp(8,35): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  delrek.vcxproj -> C:\Users\user\Desktop\Обучение\Информатика\Уравнения\eauation git\delrek\x64\Debug\delrek.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Обучение\Информатика\Уравнения\eauation git\del\del\Source.cpp(5,11): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Обучение\Информатика\Уравнения\eauation git\del\del\Source.cpp(8,34): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  del.vcxproj -> C:\Users\user\Desktop\Обучение\Информатика\Уравнения\eauation git\del\x64\Debug\del.exe

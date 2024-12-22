@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\\u0423\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u044F\\eauation git\\del\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{037F3C79-BC3C-41CB-A733-9EB2FD30A358}|del\\del.vcxproj|C:\\Users\\user\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\\u0423\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u044F\\eauation git\\del\\del\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{037F3C79-BC3C-41CB-A733-9EB2FD30A358}|del\\del.vcxproj|solutionrelative:del\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\\u0423\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u044F\\eauation git\\del\\del\\Source.cpp",
+              "RelativeDocumentMoniker": "del\\Source.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\\u0423\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u044F\\eauation git\\del\\del\\Source.cpp",
+              "RelativeToolTip": "del\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T17:07:47.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
